@@ -1,0 +1,12 @@
+
+rect x,y,w,h: 1,0,0,0
+
+rect x,y,w,h: 2,0,0,0
+guy health: 100
+
+rect x,y,w,h: 3,0,0,0
+guy health: 100
+
+rect x,y,w,h: 4,0,0,0
+guy health: 12
+I'm the special guy!
